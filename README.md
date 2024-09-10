@@ -63,36 +63,7 @@ NumPy
 Scikit-learn
 
 Pickle
-You can install these dependencies using the following command:
- 
-```bash
- pip install -r requirements.txt
-```
-## 
 
- 
-
-```bash
-  You can install these dependencies using the following command:
-```
-
-
-### Dependencies
-To run this project, the following Python libraries are required:
-
-Python 3.9  
-
-Streamlit 
-
-TensorFlow
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Pickle
 You can install these dependencies using the following command:
  
 ```bash
